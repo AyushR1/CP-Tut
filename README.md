@@ -4,7 +4,9 @@
 
 Star the repo if it helped!
 
-Respective PDFs attached.
+Solution linked below.
+Also respective PDFs are attached.
+
 
 # Tut. 1 - 23/11/22
 
