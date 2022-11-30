@@ -4,10 +4,12 @@
 
 Star the repo if it helped!
 
-Solution linked below.
-Also respective PDFs are attached.
-
+Respective PDFs attached.
 
 # Tut. 1 - 23/11/22
 
 [Tut. Sheet 1](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%201%20e28feee8187d48a7b22e04ffad2077c5.md)
+
+# Tut. 2 - 30/11/22
+
+[Tut. Sheet 2](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%202%2083f76ee2ec524d1a9853a4be79d34478.md)
