@@ -21,3 +21,7 @@ Respective PDFs attached.
 # Tut. 4 - 21/12/22
 
 [Tut. Sheet 4](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%204%20346aa1cd6dfa4296bbcd0fda782a77f3.md)
+
+# Extras… T1 Batch Tut. 13/12/22
+
+[Tut Sheet CSE batch](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%20CSE%20batch%2089712aaca70b4008bed48f3aeae57fc8.md)
