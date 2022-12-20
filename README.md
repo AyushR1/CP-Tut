@@ -17,3 +17,7 @@ Respective PDFs attached.
 # Tut. 3 - 14/12/22
 
 [Tut. Sheet 3](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%203%2047f6bef2b5b64470bc5401ee28099207.md)
+
+# Tut. 4 - 21/12/22
+
+[Tut. Sheet 4](Computer%20Programming%20Tut%20Sheet%20Solutions%202c734a7b14b94387b492223f22554985/Tut%20Sheet%204%20346aa1cd6dfa4296bbcd0fda782a77f3.md)
